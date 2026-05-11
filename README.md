@@ -1,1 +1,4 @@
-## RIP CSS Injection Jun 7 2024 - Jun 8 2024
+# All repositories are now archived in favor of my (self-hosted git)[https://git.0xvoodoo.sh/0xVoodoo]
+---
+
+https://git.0xvoodoo.sh/0xvoodoo
