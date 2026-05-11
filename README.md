@@ -1,4 +1,3 @@
-# All repositories are now archived in favor of my (self-hosted git)[https://git.0xvoodoo.sh/0xVoodoo]
----
+# All repositories are now archived in favor of my self-hosted git
 
-https://git.0xvoodoo.sh/0xvoodoo
+### https://git.0xvoodoo.sh/0xvoodoo
